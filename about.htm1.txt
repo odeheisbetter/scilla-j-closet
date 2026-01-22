@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>About Us | Scilla-J Closet</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {margin:0;font-family:Arial}
+nav {background:#3b2a23;color:white;padding:15px;display:flex;justify-content:space-between}
+nav a {color:white;text-decoration:none;margin-left:15px;font-weight:bold}
+section {padding:60px;max-width:900px;margin:auto}
+footer {background:black;color:white;text-align:center;padding:20px}
+</style>
+</head>
+
+<body>
+
+<nav>
+<h2>Scilla-J Closet</h2>
+<div>
+<a href="index.html">Home</a>
+<a href="shop.html">Shop</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</div>
+</nav>
+
+<section>
+<h1>About Scilla-J Closet</h1>
+<p>
+Scilla-J Closet is a Ghanaian fashion brand based in Accra, dedicated to
+bringing authentic African print clothing and accessories to the general public.
+</p>
+
+<p>
+Our collections include bubu dresses, dresses, African print shorts and trousers,
+men’s shirts, rattan bags, and earrings — all designed to celebrate African identity.
+</p>
+
+<p>
+<strong>Our slogan says it all:</strong><br>
+<em>IF IT’S NOT FROM J, THEN IT AIN’T AUTHENTIC</em>
+</p>
+</section>
+
+<footer>
+© 2026 Scilla-J Closet | Accra, Ghana
+</footer>
+
+</body>
+</html>

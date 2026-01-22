@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Contact Us | Scilla-J Closet</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {margin:0;font-family:Arial}
+nav {background:#3b2a23;color:white;padding:15px;display:flex;justify-content:space-between}
+nav a {color:white;text-decoration:none;margin-left:15px;font-weight:bold}
+section {padding:60px;text-align:center}
+.contact-box {
+max-width:500px;
+margin:auto;
+border:1px solid #ddd;
+padding:30px;
+}
+button {
+background:black;
+color:white;
+padding:12px 25px;
+border:none;
+font-size:16px;
+cursor:pointer;
+}
+footer {background:black;color:white;text-align:center;padding:20px}
+</style>
+</head>
+
+<body>
+
+<nav>
+<h2>Scilla-J Closet</h2>
+<div>
+<a href="index.html">Home</a>
+<a href="shop.html">Shop</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</div>
+</nav>
+
+<section>
+<h1>Contact Scilla-J Closet</h1>
+
+<div class="contact-box">
+<p><strong>Location:</strong> Accra, Ghana</p>
+<p><strong>Phone / WhatsApp:</strong> 054 856 9799</p>
+
+<br>
+
+<a href="https://wa.me/233548569799">
+<button>Chat on WhatsApp</button>
+</a>
+
+<br><br>
+
+<p>
+After placing your order, Mobile Money payment details will be sent to you
+via WhatsApp.
+</p>
+</div>
+</section>
+
+<footer>
+© 2026 Scilla-J Closet | Accra, Ghana
+</footer>
+
+</body>
+</html>
